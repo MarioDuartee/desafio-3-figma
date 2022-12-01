@@ -28,6 +28,6 @@ Nesse terceiro desafio foi possível praticar um pouco de html dinâmico com Jav
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=3743%3A36&t=EocZqpnpFdkN9mfi-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-<p align="center">
-Projeto desenvolvido por mim [Mário Duarte](<https://www.linkedin.com/in/mario-duarte-3923431b8>) e design feito por [Iuri Silva](https://www.linkedin.com/in/iuricode).
-</p>
+
+Projeto desenvolvido por mim [Mário Duarte](https://www.linkedin.com/in/mario-duarte-3923431b8) e design feito por [Iuri Silva](https://www.linkedin.com/in/iuricode).
+
