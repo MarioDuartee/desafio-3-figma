@@ -15,7 +15,7 @@ header {
 }
 
 .container-header {
-    width: 1242px;
+    max-width: 1242px;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -24,7 +24,7 @@ header {
 
 .content-header div {
     height: 303px;
-    width: 389px;
+    max-width: 389px;
 }
 
 .content-header div h1 {
@@ -42,8 +42,9 @@ header {
 
 .img-header {
     position: relative;
-    bottom: 60px
+    bottom: 60px;
 }
+
 
 .btn-header {
     height: 50px;
